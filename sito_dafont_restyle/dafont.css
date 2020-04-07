@@ -1,0 +1,96 @@
+header {
+    background: #ca0000;
+    height: 200px;
+}
+
+header ul {
+    list-style-type: none;
+    position: absolute;
+    margin-left: 1170px;
+}
+
+header ul li {
+    display: inline;
+    margin-left: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+header img {
+    float: left;
+}
+
+header a#a:hover {
+    color: black;
+}
+
+a#a {
+    color: white;
+    text-decoration: none;
+}
+
+a#b {
+    color: black;
+    text-decoration: none;
+}
+
+section#a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    float: left
+}
+
+section#a h3 {
+    font-family: "futura round";
+    color: #ca0000;
+    margin-left: 40px;
+}
+
+section#a ul {
+    list-style-type: none;
+}
+
+section#a ul li {
+    margin-bottom: 8px;
+}
+
+section#a a:hover {
+    color: #ca0000;
+}
+
+section#b {
+    float: left;
+    margin-left: 300px;
+}
+
+section#b h3 {
+    font-family: "futura round";
+    color: #ca0000;
+}
+
+section#b img {
+    width: 300px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    border-color: #ca0000;
+    border-style: solid;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+section#c {
+    float: left;
+    margin-top: 50px;
+    background: #ca0000;
+}
+
+section#c footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 5px;
+    position: relative;
+}
